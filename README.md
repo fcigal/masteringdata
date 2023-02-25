@@ -5,12 +5,13 @@
 
 - ## Contents
 
-1.    Arrays
-2.   Structures
+1.   Introduction
+2.   Arrays
+3.   Structures
 
 - ## References
-1.    Abdul Bari - Udemy
-2.    Freecodecamp
+1.   Abdul Bari - Udemy
+2.   Freecodecamp
 
 ##  Accounts
 
