@@ -1,9 +1,19 @@
-# Mastering Data Structure
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71490502/221351883-11f5fb28-8666-4f84-a017-8dd151ddd5b2.png">
+
+   <img src="https://user-images.githubusercontent.com/71490502/221351883-11f5fb28-8666-4f84-a017-8dd151ddd5b2.png">
+  
 </p>
 
-- ## Contents
+<h3 align="center">Data Structures and Algorithms</h3>
+
+<p align="center">
+ <h6 align="center">Deep dive into data structures and algorithms in C and C++ language hands-on.</h6>
+</p>
+
+
+
+## Table of Contents
 
 1.   Introduction
 2.   Arrays
