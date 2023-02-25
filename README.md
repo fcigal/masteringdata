@@ -8,10 +8,12 @@
 1.   Introduction
 2.   Arrays
 3.   Structures
+<hr />
 
 - ## References
 1.   Udemy - [Abdul Bari](https://www.udemy.com/course/datastructurescncpp/)
 2.   Freecodecamp - [Data Structures](https://www.freecodecamp.org/news/tag/data-structures/)
+<hr />
 
 ##  Accounts
 
