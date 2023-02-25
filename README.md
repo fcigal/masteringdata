@@ -7,3 +7,7 @@
 
 1.    Arrays
 2.   Structures
+
+- ## References
+1.    Abdul Bari - Udemy
+2.    Freecodecamp
