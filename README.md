@@ -11,3 +11,9 @@
 - ## References
 1.    Abdul Bari - Udemy
 2.    Freecodecamp
+
+##  Accounts
+
+- LinkedIn: [Furkan Cığal](https://www.linkedin.com/in/fcigal/)
+- Medium: [Furkan Cığal](https://medium.com/@fcigal)
+- Instagram: [3dprintvalley](https://www.instagram.com/3dprintvalley/)
