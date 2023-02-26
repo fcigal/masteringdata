@@ -17,7 +17,7 @@
 
 1.   [Introduction](https://github.com/fcigal/masteringdata/tree/main/01-Introduction) 
 2.   [Arrays](https://github.com/fcigal/masteringdata/tree/main/02-Arrays)
-3.   [Structures]
+3.   [Structures](https://github.com/fcigal/masteringdata/tree/main/03-Structures)
 <hr />
 
  ## References
