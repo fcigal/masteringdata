@@ -16,8 +16,8 @@
 ## Table of Contents
 
 1.   [Introduction](https://github.com/fcigal/masteringdata/tree/main/01-Introduction) 
-2.   Arrays
-3.   Structures
+2.   [Arrays](https://github.com/fcigal/masteringdata/tree/main/02-Arrays)
+3.   [Structures]
 <hr />
 
  ## References
