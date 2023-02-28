@@ -9,6 +9,8 @@
 
 <p align="center">
  <h6 align="center">Deep dive into data structures and algorithms in C and C++ language hands-on.</h6>
+ <h6 align="center">I will collect the information I have gained as a result of the courses I have taken and all the research I have done individually in this repository.</h6>
+ 
 </p>
 
 
@@ -30,3 +32,4 @@
 - LinkedIn: [Furkan Cığal](https://www.linkedin.com/in/fcigal/)
 - Medium: [Furkan Cığal](https://medium.com/@fcigal)
 - Instagram: [3dprintvalley](https://www.instagram.com/3dprintvalley/)
+
